@@ -1,5 +1,6 @@
 {
   "editor.insertSpaces": false,
+  "html.customData": ["./src/data/zg.html-data.json"],
   "prettier.useTabs": true,
   "prettier.printWidth": 120,
   "prettier.semi": true
